@@ -1,8 +1,8 @@
-# Links and resources for sessions of Malaga Mobile meetup
+# Resources for sessions of Malaga Mobile meetup
 
 
 
-## Reactive Extensions Session (28th Feb 2019)
+## Reactive Extensions Session (28th March 2019)
 
 [[Meetup link](https://www.meetup.com/malagamobile/events/259694741/)]
 
@@ -12,7 +12,7 @@ iOS talk: "What are Reactive Extensions and where do you want to try them?" by [
 
 
 
-## Kick-Off Session (27th Feb 2019) 
+## Kick Off Session (27th Feb 2019) 
 
 [[Meetup link](https://www.meetup.com/malagamobile/events/258669033/)]
 
