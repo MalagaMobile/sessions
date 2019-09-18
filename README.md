@@ -4,7 +4,7 @@
 
 [Meetup link](https://www.meetup.com/malagamobile/events/264318103/)
 
-[iOS talk(https://github.com/MalagaMobile/accessibility-without-the-api)]: "Accessibility Without the API" by [Chris Barker](https://twitter.com/MrChrisBarker).
+[iOS talk](https://github.com/MalagaMobile/accessibility-without-the-api): "Accessibility Without the API" by [Chris Barker](https://twitter.com/MrChrisBarker).
 
 ## Quiz session: test your knowledge and have fun with friends! (18th July 2019)
 
@@ -16,13 +16,13 @@
 
 [Meetup link](https://www.meetup.com/malagamobile/events/261669477/)
 
-[Design talk(https://github.com/MalagaMobile/sketch-plugin)]: "Objective-C, JavaScript and Sketch walk into a bar..." by [Diego Freniche](https://twitter.com/dfreniche).
+[Design talk](https://github.com/MalagaMobile/sketch-plugin): "Objective-C, JavaScript and Sketch walk into a bar..." by [Diego Freniche](https://twitter.com/dfreniche).
 
 ## Workshop: Contract testing for Android and iOS with stubbing HTTP (30th May 2019)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/261170041/)
 
-Testing workshop for Android and iOS by [Pedro Gomez(https://twitter.com/pedro_g_s)].
+Testing workshop for Android and iOS by [Pedro Gomez](https://twitter.com/pedro_g_s).
 
 ## Public screening: Google I/O opening keynote 2019 (7th May 2019)
 
