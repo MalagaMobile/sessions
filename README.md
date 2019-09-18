@@ -47,7 +47,7 @@ Presentation [slides](slides/2019_02_27/malagamobile_meetup_intro.pdf)
 
 [iOS talk](https://github.com/MalagaMobile/reference-vs-value-types-in-Swift): "Value types in Swift: what are they and why should you care?" by [Adrian Tineo](https://twitter.com/atineoSE).
 
-[Android talk](https://github.com/MalagaMobile/introduction-android-development-kotlin): "Introduction to Android Development with Koltin" by [Miguel Ángel Ruiz](https://twitter.com/maRuizLopez).
+[Android talk](https://github.com/MalagaMobile/introduction-android-development-kotlin): "Introduction to Android Development with Kotlin" by [Miguel Ángel Ruiz](https://twitter.com/maRuizLopez).
 
 
 
