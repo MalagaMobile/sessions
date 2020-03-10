@@ -1,5 +1,23 @@
 # Resources for sessions of Malaga Mobile meetup
 
+## Live video streaming in the FIFA World Cup (19th February 2020)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/268404845/)
+
+iOS talk: "Live video streaming in the FIFA World Cup" by [Juanjo Ramos](https://twitter.com/JuanjoRamos82).
+
+## Speed up your iOS Development following the Modules Paradigm (12th December 2019)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/266806446/)
+
+iOS talk: "Speed up your iOS Development following the Modules Paradigm" by [Francisco Javier Trujillo Mata](https://twitter.com/fjtrujy).
+
+## Understanding kotlinx.coroutines a little deeper (24th October 2019)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/264951955/)
+
+Android talk: "Understanding kotlinx.coroutines a little deeper" by [Olmo Gallegos](https://twitter.com/voghDev).
+
 ## Accessibility without the API (13th September 2019)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/264318103/)
