@@ -4,7 +4,7 @@
 
 [Meetup link](https://www.meetup.com/malagamobile/events/268404845/)
 
-iOS talk: "Live video streaming in the FIFA World Cup" by [Juanjo Ramos](https://twitter.com/JuanjoRamos82).
+[iOS talk](https://github.com/MalagaMobile/live-video-streaming): "Live video streaming in the FIFA World Cup" by [Juanjo Ramos](https://twitter.com/JuanjoRamos82).
 
 ## Speed up your iOS Development following the Modules Paradigm (12th December 2019)
 
@@ -16,7 +16,7 @@ iOS talk: "Speed up your iOS Development following the Modules Paradigm" by [Fra
 
 [Meetup link](https://www.meetup.com/malagamobile/events/264951955/)
 
-Android talk: "Understanding kotlinx.coroutines a little deeper" by [Olmo Gallegos](https://twitter.com/voghDev).
+[Android talk](slides/2019_10_24/kotlinx_coroutines.pdf): "Understanding kotlinx.coroutines a little deeper" by [Olmo Gallegos](https://twitter.com/voghDev).
 
 ## Accessibility without the API (13th September 2019)
 
