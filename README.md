@@ -1,4 +1,4 @@
-# Resources for sessions of Malaga Mobile meetup
+# Resources for sessions of MalagaMobile meetup
 
 ## Live video streaming in the FIFA World Cup (19th February 2020)
 
