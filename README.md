@@ -10,7 +10,7 @@
 
 [Meetup link](https://www.meetup.com/malagamobile/events/266806446/)
 
-iOS talk: "Speed up your iOS Development following the Modules Paradigm" by [Francisco Javier Trujillo Mata](https://twitter.com/fjtrujy).
+[iOS talk](https://github.com/MalagaMobile/speedup-ios-development): "Speed up your iOS Development following the Modules Paradigm" by [Francisco Javier Trujillo Mata](https://twitter.com/fjtrujy).
 
 ## Understanding kotlinx.coroutines a little deeper (24th October 2019)
 
