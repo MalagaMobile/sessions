@@ -2,6 +2,12 @@
 
 ## Live video streaming in the FIFA World Cup (19th February 2020)
 
+[Meetup link](https://www.meetup.com/malagamobile/events/270332432/)
+
+[iOS talk](https://github.com/MalagaMobile/learn_swiftUI) ([video](https://www.youtube.com/watch?v=ck35lPb3YD4)): "An evening with [Chris Barker](https://twitter.com/MrChrisBarker), author of \"[Learn SwiftUI](https://www.packtpub.com/business-other/learn-swiftui)\"".
+
+## Live video streaming in the FIFA World Cup (19th February 2020)
+
 [Meetup link](https://www.meetup.com/malagamobile/events/268404845/)
 
 [iOS talk](https://github.com/MalagaMobile/live-video-streaming): "Live video streaming in the FIFA World Cup" by [Juanjo Ramos](https://twitter.com/JuanjoRamos82).
