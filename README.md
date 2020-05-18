@@ -1,6 +1,6 @@
 # Resources for sessions of MalagaMobile meetup
 
-## Live video streaming in the FIFA World Cup (19th February 2020)
+## An evening with Chris Barker, author of "Learn SwiftUI" (7th May 2020)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/270332432/)
 
