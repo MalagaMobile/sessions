@@ -1,5 +1,11 @@
 # Resources for sessions of MalagaMobile meetup
 
+## Hey, is Uncle Bob wearing a jetpack!? (18th June 2020)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/270723574/)
+
+[Android talk](https://github.com/MalagaMobile/sessions/blob/master/slides/2020_06_18/uncle_bob_jetpack.pdf) ([video](https://youtu.be/d4wggMf-49Y)): "Hey, is Uncle Bob wearing a jetpack!?" by [Rafael Ortega](https://twitter.com/ortiOficial).
+
 ## An evening with Chris Barker, author of "Learn SwiftUI" (7th May 2020)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/270332432/)
