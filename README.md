@@ -1,5 +1,11 @@
 # Resources for sessions of MalagaMobile meetup
 
+## Build that Side Project (16th July 2020)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/271713826/)
+
+[iOS talk](https://github.com/MalagaMobile/sessions/blob/master/slides/2020_07_16/aspiring_indie_dev_mustafa_yusuf.pdf) ([video](https://youtu.be/3v-yRGDuOI8)): "Build that Side Project" by [Mustafa Yusuf](https://twitter.com/mufasaYC).
+
 ## Hey, is Uncle Bob wearing a jetpack!? (18th June 2020)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/270723574/)
