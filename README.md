@@ -1,5 +1,11 @@
 # Resources for sessions of MalagaMobile meetup
 
+## Dark ~~Side~~ Theme (22nd October 2020)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/273660356)
+
+[Android talk](https://github.com/MalagaMobile/sessions/blob/master/slides/2020_10_22/Dark%20Mode%20-%20Slides.pdf) ([video](https://youtu.be/U93CNaE3PX4)): "Dark ~~Side~~ Theme" by [Bernat Borrás](https://twitter.com/lepetitbernat).
+
 ## Build that Side Project (16th July 2020)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/271713826/)
