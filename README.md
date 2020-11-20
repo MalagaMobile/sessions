@@ -1,5 +1,11 @@
 # Resources for sessions of MalagaMobile meetup
 
+## Building an Indie app with SwiftUI (12th November 2020)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/274229090/)
+
+[iOS/macOS talk](https://github.com/MalagaMobile/sessions/blob/master/slides/2020_11_12/Building%20an%20Indie%20App%20with%20SwiftUI.pdf) ([video](https://youtu.be/mxTYOnkA0vo)): "Building an Indie app with SwiftUI" by [Malin Sundberg](https://twitter.com/malinsundberg) and [Kai Dombrowski](https://twitter.com/airkai).
+
 ## Dark ~~Side~~ Theme (22nd October 2020)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/273660356)
