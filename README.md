@@ -1,5 +1,11 @@
 # Resources for sessions of MalagaMobile meetup
 
+## Flutter: En mobile y más allá (15th April 2021)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/277253507/)
+
+[Crossplatform talk](https://github.com/MalagaMobile/sessions/blob/master/slides/2021_04_15/Flutter_%20En%20mobile%20y%20más%20alla.pdf):  "Flutter: En mobile y más allá" by [Alfredo Bautista](https://twitter.com/alfredobs97).
+
 ## Building an Indie app with SwiftUI (12th November 2020)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/274229090/)
