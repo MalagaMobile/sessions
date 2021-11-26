@@ -1,5 +1,9 @@
 # Resources for sessions of MalagaMobile meetup
 
+## In-person get-together (25th November 2021)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/281792090/)
+
 ## Flutter: En mobile y más allá (15th April 2021)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/277253507/)
