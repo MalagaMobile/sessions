@@ -1,5 +1,11 @@
 # Resources for sessions of MalagaMobile meetup
 
+## Managing App Complexity (10th March 2022)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/284177519/) 
+
+[iOS talk](https://github.com/MalagaMobile/sessions/blob/master/slides/2022_03_09/App%20Complexity%20Malaga%20Mobile.pdf) ([video](https://youtu.be/WiXUNRnND0I)):"Managing App Complexity" by [Chris Vasselli](https://twitter.com/chrisvasselli).
+
 ## In-person get-together (25th November 2021)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/281792090/)
