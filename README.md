@@ -4,11 +4,13 @@
 
 [Meetup link](https://www.meetup.com/malagamobile/events/285669211/)
 
+Public screening of the [Google I/O opening keynote 2022](https://youtu.be/nP-nMZpLM1A).
+
 ## Going Open-Source (31st March 2022)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/284671577/) 
 
-[iOS talk](https://danielsaidi.com/talks/2022/03/26/malaga-opensource#/)([video](https://youtu.be/rgHAlK2MJnw)): "Going Open-Source" by [Daniel Saidi](https://twitter.com/danielsaidi).
+[iOS talk](https://danielsaidi.com/talks/2022/03/26/malaga-opensource#/) ([video](https://youtu.be/rgHAlK2MJnw)): "Going Open-Source" by [Daniel Saidi](https://twitter.com/danielsaidi).
 
 ## Managing App Complexity (10th March 2022)
 
