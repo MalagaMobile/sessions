@@ -1,5 +1,12 @@
 # Resources for sessions of MalagaMobile meetup
 
+## Public screening: WWDC 2022 opening keynote (6th June 2022)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/286069123/)
+
+Public screening of the [WWDC 2022 opening keynote](https://youtu.be/q5D55G7Ejs8).
+
+
 ## Public screening: Google I/O opening keynote 2022 (11th May 2022)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/285669211/)
