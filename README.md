@@ -1,11 +1,23 @@
 # Resources for sessions of MalagaMobile meetup
 
+## From Mobile to MongoDB: store your app's data using Realm (2nd March 2023)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/291335586)
+
+Lightning talk: "Chatbots - The most human face of artificial intelligence" by [Alba Ruiz](https://www.linkedin.com/in/alba-ruiz-gutiérrez-63851b20a/)
+iOS/Android talk: "From Mobile to MongoDB: store your app's data using Realm" by [Diego Freniche](https://mastodon.social/@dfreniche)
+
+## Screenshot Testing in Jetpack Compose: Lights & Shadows (10th January 2023)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/290335359/)
+
+[Android talk]: "Screenshot Testing in Jetpack Compose: Lights & Shadows" by [Olmo Gallegos](https://github.com/voghDev)
+
 ## Public screening: WWDC 2022 opening keynote (6th June 2022)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/286069123/)
 
 Public screening of the [WWDC 2022 opening keynote](https://youtu.be/q5D55G7Ejs8).
-
 
 ## Public screening: Google I/O opening keynote 2022 (11th May 2022)
 
