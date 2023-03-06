@@ -5,13 +5,14 @@
 [Meetup link](https://www.meetup.com/malagamobile/events/291335586)
 
 Lightning talk: "Chatbots - The most human face of artificial intelligence" by [Alba Ruiz](https://www.linkedin.com/in/alba-ruiz-gutiérrez-63851b20a/)
+
 iOS/Android talk: "From Mobile to MongoDB: store your app's data using Realm" by [Diego Freniche](https://mastodon.social/@dfreniche)
 
 ## Screenshot Testing in Jetpack Compose: Lights & Shadows (10th January 2023)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/290335359/)
 
-[Android talk]: "Screenshot Testing in Jetpack Compose: Lights & Shadows" by [Olmo Gallegos](https://github.com/voghDev)
+[Android talk](https://github.com/MalagaMobile/sessions/blob/main/slides/2023_01_19/Screenshot%20Testing%20in%20Jetpack%20Compose.pdf): "Screenshot Testing in Jetpack Compose: Lights & Shadows" by [Olmo Gallegos](https://github.com/voghDev)
 
 ## Public screening: WWDC 2022 opening keynote (6th June 2022)
 
