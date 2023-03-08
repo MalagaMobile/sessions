@@ -6,7 +6,9 @@
 
 Lightning talk: "Chatbots - The most human face of artificial intelligence" by [Alba Ruiz](https://www.linkedin.com/in/alba-ruiz-gutiérrez-63851b20a/)
 
-iOS/Android talk: "From Mobile to MongoDB: store your app's data using Realm" by [Diego Freniche](https://mastodon.social/@dfreniche)
+[iOS/Android talk](https://github.com/MalagaMobile/sessions/blob/main/slides/2023_03_02/From%20Mobile%20to%20MongoDB.pdf): "From Mobile to MongoDB: store your app's data using Realm" by [Diego Freniche](https://mastodon.social/@dfreniche)
+
+Additional MongoDB resources, including video tutorials are available [here](https://landing.mdb.link/malaga-mobile-realm).
 
 ## Screenshot Testing in Jetpack Compose: Lights & Shadows (10th January 2023)
 
