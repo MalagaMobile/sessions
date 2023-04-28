@@ -1,5 +1,11 @@
 # Resources for sessions of MalagaMobile meetup
 
+## Code once, deploy everywhere with .NET MAUI (27th April 2023)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/292843435)
+
+[Slides](./slides/2023_04_27/codeonce_maui.pdf): "Code once, deploy everywhere with .NET MAUI" by [Elena G Blanco](https://github.com/Beelzenef)
+
 ## From Mobile to MongoDB: store your app's data using Realm (2nd March 2023)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/291335586)
