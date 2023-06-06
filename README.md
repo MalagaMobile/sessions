@@ -1,5 +1,16 @@
 # Resources for sessions of MalagaMobile meetup
 
+## Public screening: WWDC 2023 opening keynote (5th June 2023)
+[Meetup link](https://www.meetup.com/malagamobile/events/293609922/)
+
+Public screening of the [WWDC 2023 opening keynote](https://www.youtube.com/live/GYkq9Rgoj8E).
+
+## Google I/O Extended Watch Party GDG Malaga+MalagaMobile (10th May 2023)
+
+[Meetup link](https://www.meetup.com/malagamobile/events/292932172/)
+
+Public screening of the [Google I/O opening keynote 2023](https://www.youtube.com/live/cNfINi5CNbY).
+
 ## Code once, deploy everywhere with .NET MAUI (27th April 2023)
 
 [Meetup link](https://www.meetup.com/malagamobile/events/292843435)
