@@ -3,7 +3,7 @@
 ## Development with Unity: past, present and... future? (21st September 2023)
 [Meetup link](https://www.meetup.com/malagamobile/events/295008604/)
 
-[Slides](./slides/2023_09_21/Unity.pdf)"Development with Unity: past, present and... future?" by [Elena Blanes](https://twitter.com/ElenaImagineer)
+[Slides](./slides/2023_09_21/Unity.pdf): "Development with Unity: past, present and... future?" by [Elena Blanes](https://twitter.com/ElenaImagineer)
 
 ## Public screening: WWDC 2023 opening keynote (5th June 2023)
 [Meetup link](https://www.meetup.com/malagamobile/events/293609922/)
