@@ -1,30 +1,33 @@
 # Resources for sessions of MalagaMobile meetup
 
+
+![MalagaMobile in meetup.com](meetup/meetup_page_header.png)
+
 ## Development with Unity: past, present and... future? (21st September 2023)
-[Meetup link](https://www.meetup.com/malagamobile/events/295008604/)
+[Meetup link](meetup/meetup_26.pdf)
 
 [Slides](./slides/2023_09_21/Unity.pdf): "Development with Unity: past, present and... future?" by [Elena Blanes](https://twitter.com/ElenaImagineer)
 
 ## Public screening: WWDC 2023 opening keynote (5th June 2023)
-[Meetup link](https://www.meetup.com/malagamobile/events/293609922/)
+[Meetup link](meetup/meetup_25.pdf)
 
 Public screening of the [WWDC 2023 opening keynote](https://www.youtube.com/live/GYkq9Rgoj8E).
 
 ## Google I/O Extended Watch Party GDG Malaga+MalagaMobile (10th May 2023)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/292932172/)
+[Meetup link](meetup/meetup_24.pdf)
 
 Public screening of the [Google I/O opening keynote 2023](https://www.youtube.com/live/cNfINi5CNbY).
 
 ## Code once, deploy everywhere with .NET MAUI (27th April 2023)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/292843435)
+[Meetup link](meetup/meetup_23.pdf)
 
 [Slides](./slides/2023_04_27/codeonce_maui.pdf): "Code once, deploy everywhere with .NET MAUI" by [Elena G Blanco](https://github.com/Beelzenef)
 
 ## From Mobile to MongoDB: store your app's data using Realm (2nd March 2023)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/291335586)
+[Meetup link](meetup/meetup_22.pdf)
 
 Lightning talk: "Chatbots - The most human face of artificial intelligence" by [Alba Ruiz](https://www.linkedin.com/in/alba-ruiz-gutiérrez-63851b20a/)
 
@@ -34,134 +37,130 @@ Additional MongoDB resources, including video tutorials are available [here](htt
 
 ## Screenshot Testing in Jetpack Compose: Lights & Shadows (10th January 2023)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/290335359/)
+[Meetup link](meetup/meetup_21.pdf)
 
 [Android talk](https://github.com/MalagaMobile/sessions/blob/main/slides/2023_01_19/Screenshot%20Testing%20in%20Jetpack%20Compose.pdf): "Screenshot Testing in Jetpack Compose: Lights & Shadows" by [Olmo Gallegos](https://github.com/voghDev)
 
 ## Public screening: WWDC 2022 opening keynote (6th June 2022)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/286069123/)
+[Meetup link](meetup/meetup_20.pdf)
 
 Public screening of the [WWDC 2022 opening keynote](https://youtu.be/q5D55G7Ejs8).
 
 ## Public screening: Google I/O opening keynote 2022 (11th May 2022)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/285669211/)
+[Meetup link](meetup/meetup_19.pdf)
 
 Public screening of the [Google I/O opening keynote 2022](https://youtu.be/nP-nMZpLM1A).
 
 ## Going Open-Source (31st March 2022)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/284671577/) 
+[Meetup link](meetup/meetup_18.pdf)
 
 [iOS talk](https://danielsaidi.com/talks/2022/03/26/malaga-opensource#/) ([video](https://youtu.be/rgHAlK2MJnw)): "Going Open-Source" by [Daniel Saidi](https://twitter.com/danielsaidi).
 
 ## Managing App Complexity (10th March 2022)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/284177519/) 
+[Meetup link](meetup/meetup_17.pdf)
 
 [iOS talk](https://github.com/MalagaMobile/sessions/blob/master/slides/2022_03_09/App%20Complexity%20Malaga%20Mobile.pdf) ([video](https://youtu.be/WiXUNRnND0I)): "Managing App Complexity" by [Chris Vasselli](https://twitter.com/chrisvasselli).
 
-## In-person get-together (25th November 2021)
-
-[Meetup link](https://www.meetup.com/malagamobile/events/281792090/)
-
 ## Flutter: En mobile y más allá (15th April 2021)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/277253507/)
+[Meetup link](meetup/meetup_16.pdf)
 
 [Crossplatform talk](https://github.com/MalagaMobile/sessions/blob/master/slides/2021_04_15/Flutter_%20En%20mobile%20y%20más%20alla.pdf):  "Flutter: En mobile y más allá" by [Alfredo Bautista](https://twitter.com/alfredobs97).
 
 ## Building an Indie app with SwiftUI (12th November 2020)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/274229090/)
+[Meetup link](meetup/meetup_15.pdf)
 
 [iOS/macOS talk](https://github.com/MalagaMobile/sessions/blob/master/slides/2020_11_12/Building%20an%20Indie%20App%20with%20SwiftUI.pdf) ([video](https://youtu.be/mxTYOnkA0vo)): "Building an Indie app with SwiftUI" by [Malin Sundberg](https://twitter.com/malinsundberg) and [Kai Dombrowski](https://twitter.com/airkai).
 
 ## Dark ~~Side~~ Theme (22nd October 2020)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/273660356)
+[Meetup link](meetup/meetup_14.pdf)
 
 [Android talk](https://github.com/MalagaMobile/sessions/blob/master/slides/2020_10_22/Dark%20Mode%20-%20Slides.pdf) ([video](https://youtu.be/U93CNaE3PX4)): "Dark ~~Side~~ Theme" by [Bernat Borrás](https://twitter.com/lepetitbernat).
 
 ## Build that Side Project (16th July 2020)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/271713826/)
+[Meetup link](meetup/meetup_13.pdf)
 
 [iOS talk](https://github.com/MalagaMobile/sessions/blob/master/slides/2020_07_16/aspiring_indie_dev_mustafa_yusuf.pdf) ([video](https://youtu.be/3v-yRGDuOI8)): "Build that Side Project" by [Mustafa Yusuf](https://twitter.com/mufasaYC).
 
 ## Hey, is Uncle Bob wearing a jetpack!? (18th June 2020)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/270723574/)
+[Meetup link](meetup/meetup_12.pdf)
 
 [Android talk](https://github.com/MalagaMobile/sessions/blob/master/slides/2020_06_18/uncle_bob_jetpack.pdf) ([video](https://youtu.be/d4wggMf-49Y)): "Hey, is Uncle Bob wearing a jetpack!?" by [Rafael Ortega](https://twitter.com/ortiOficial).
 
 ## An evening with Chris Barker, author of "Learn SwiftUI" (7th May 2020)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/270332432/)
+[Meetup link](meetup/meetup_11.pdf)
 
 [iOS talk](https://github.com/MalagaMobile/learn_swiftUI) ([video](https://www.youtube.com/watch?v=ck35lPb3YD4)): "An evening with [Chris Barker](https://twitter.com/MrChrisBarker), author of \"[Learn SwiftUI](https://www.packtpub.com/business-other/learn-swiftui)\".
 
 ## Live video streaming in the FIFA World Cup (19th February 2020)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/268404845/)
+[Meetup link](meetup/meetup_10.pdf)
 
 [iOS talk](https://github.com/MalagaMobile/live-video-streaming): "Live video streaming in the FIFA World Cup" by [Juanjo Ramos](https://twitter.com/JuanjoRamos82).
 
 ## Speed up your iOS Development following the Modules Paradigm (12th December 2019)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/266806446/)
+[Meetup link](meetup/meetup_09.pdf)
 
 [iOS talk](https://github.com/MalagaMobile/speedup-ios-development): "Speed up your iOS Development following the Modules Paradigm" by [Francisco Javier Trujillo Mata](https://twitter.com/fjtrujy).
 
 ## Understanding kotlinx.coroutines a little deeper (24th October 2019)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/264951955/)
+[Meetup link](meetup/meetup_08.pdf)
 
 [Android talk](slides/2019_10_24/kotlinx_coroutines.pdf): "Understanding kotlinx.coroutines a little deeper" by [Olmo Gallegos](https://twitter.com/voghDev).
 
 ## Accessibility without the API (13th September 2019)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/264318103/)
+[Meetup link](meetup/meetup_07.pdf)
 
 [iOS talk](https://github.com/MalagaMobile/accessibility-without-the-api): "Accessibility Without the API" by [Chris Barker](https://twitter.com/MrChrisBarker).
 
 ## Quiz session: test your knowledge and have fun with friends! (18th July 2019)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/262836100/)
+[Meetup link](meetup/meetup_06.pdf)
 
 [Interactive quiz](https://create.kahoot.it/share/what-s-new-in-the-ios-and-android-platforms/adf05838-85f2-4977-9544-57442a7b7027) to test your knowledge on what's new in Android and iOS.
 
 ## Objective-C, JavaScript and Sketch walk into a bar... (27th June 2019)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/261669477/)
+[Meetup link](meetup/meetup_05.pdf)
 
 [Design talk](https://github.com/MalagaMobile/sketch-plugin): "Objective-C, JavaScript and Sketch walk into a bar..." by [Diego Freniche](https://twitter.com/dfreniche).
 
 ## Workshop: Contract testing for Android and iOS with stubbing HTTP (30th May 2019)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/261170041/)
+[Meetup link](meetup/meetup_04.pdf)
 
 Testing workshop for Android and iOS by [Pedro Gomez](https://twitter.com/pedro_g_s).
 
 ## Public screening: Google I/O opening keynote 2019 (7th May 2019)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/260848104/)
+[Meetup link](meetup/meetup_03.pdf)
 
 Public screening of the [Google I/O opening keynote 2019](https://youtu.be/lyRPyRKHO8M).
 
 ## Reactive Extensions Session (28th March 2019)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/259694741/)
+[Meetup link](meetup/meetup_02.pdf)
 
 Introduction [slides](slides/2019_03_28/malagamobile_28_march_2019.pdf)
 
 [iOS talk](https://github.com/MalagaMobile/reactive-extensions): "What are Reactive Extensions and where do you want to try them?" by [Juanjo Ramos](https://twitter.com/JuanjoRamos82).
 
 
-## Kick Off Session (27th Feb 2019) 
+## Kick Off Session (27th Feb 2019)
 
-[Meetup link](https://www.meetup.com/malagamobile/events/258669033/)
+[Meetup link](meetup/meetup_01.pdf)
 
 Presentation [slides](slides/2019_02_27/malagamobile_meetup_intro.pdf)
 
